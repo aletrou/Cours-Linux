@@ -2,7 +2,7 @@
 
 Les commandes sont généralement composées ainsi : `verbe-nom`. On peut également y ajouter une pipeline `|`, servant à connecter deux commandes ensemble.
 
-Pour lister toutes les commandes de PowerShell, il est possible d'utiliser `get-command`dans l'invite. Elles sont plus facilement trouvables [ici](https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.utility/?view=powershell-7.1) avec la barre de recherche.
+Pour lister toutes les commandes de PowerShell, il est possible d'utiliser `get-command` dans l'invite. Elles sont plus facilement trouvables [ici](https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.utility/?view=powershell-7.1) avec la barre de recherche.
 
 Quelques verbes utilisés dans ces commandes :
 
