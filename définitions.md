@@ -20,6 +20,10 @@ Le terme cmdlet (prononcé command-let), aussi appelé applet de commande en fra
 
 On peut traduire ce terme par environnement d'exécution. Il s'agit d'un logiciel chargé de l'exécution de programme écrit dans un langage de prpogrammation donné; il offre tous les services nécessaires pour qu’un logiciel puisse être exécuté.
 
+* Variable
+
+Dans un language de programmation, une variable est un espace de stockage pour un résultat, une donnée. Il en existe plusieurs types, variant selon le langage utilisé (par exemple, on peut trouver ces types de variable en golang : string *chaîne de texte*, bool *une valeur vrai ou faux*, int *variable 32 bits, nombre entier*, etc.)
+
 ---------------------------------------------------------------------------
 
 ## Sommaire
