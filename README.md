@@ -22,7 +22,7 @@ Le terme Script désigne un programme ou morceau de programme exécutant une act
 
 * .NET
 
-Plateforme de développement en Open Source proposé par Microsoft permettant de créer différents types d'application : 
+Il s'afit d'une plateforme de développement en Open Source proposé par Microsoft permettant d'utiliser divers langages (#C, #F, Visual Basic) pour créer des application, telles que des applications bureau, de l'IoT, des applications mobiles, des jeux, etc. ([source](https://docs.microsoft.com/en-us/dotnet/core/introduction))
 
 ------------------------------------------------------------------------------
 
