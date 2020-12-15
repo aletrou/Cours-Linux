@@ -26,7 +26,7 @@ Il s'afit d'une plateforme de développement en Open Source développé par Micr
 
 Ci-dessous une vidéo présentant .NET :
 
-[![Vidéo](https://user-images.githubusercontent.com/73824294/102161730-21e40c80-3e88-11eb-9217-f35eece9b3ef.PNG)](https://youtu.be/eIHKZfgddLM?list=PLdo4fOcmZ0oWoazjhXQzBKMrFuArxpW80)
+[![Vidéo](https://user-images.githubusercontent.com/73824294/102161730-21e40c80-3e88-11eb-9217-f35eece9b3ef.PNG)](https://www.youtube.com/watch?v=eIHKZfgddLM&ab_channel=dotNET)
 
 ------------------------------------------------------------------------------
 
