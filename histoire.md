@@ -4,6 +4,6 @@
 
 Sa deuxième version apparaitra en 2008. C'est à partir de cette dernière que PowerShell sera intégré de base dans les versions de Windows, en commençant par Windows 7 qui sortira en 2009.
 
-Ci-dessous, l'historique des versions de son lancement à la version actuelle (7.0) :
+Ci-dessous, l'historique des versions de son lancement à la version actuelle (7.0) ([source](https://docs.microsoft.com/en-us/powershell/scripting/powershell-support-lifecycle?view=powershell-7.1)) :
 
-[![chronologie](https://user-images.githubusercontent.com/73824294/102168741-147f5000-3e91-11eb-8dd8-5117919f9e43.PNG)](https://docs.microsoft.com/en-us/powershell/scripting/powershell-support-lifecycle?view=powershell-7.1)
+![chronologie](https://user-images.githubusercontent.com/73824294/102168741-147f5000-3e91-11eb-8dd8-5117919f9e43.PNG)
