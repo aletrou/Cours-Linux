@@ -4,11 +4,19 @@ Le PowerShell est une infrastructure multiplateforme servant à la configuration
 
 ---------------------------------------------------------------------------
 
-## Qu'est ce qu'un Shell ?
+## Quelques définitions
+
+* Qu'est ce qu'un Shell ?
 
 *"shell" = nom anglais signifiant "coquille", désigne généralement une **Enveloppe protectrice externe***
 
 Le Shell désigne la couche la plus externe d'un système d'exploitation. Également appelé interface système en français, un shell est un programme recevant des lignes de commande par un utilisateur, pour ensuite les envoyer au système d'exploitation qui se chargera de les exécuter. C'est un intermédiaire entre l'humain et l'OS.
+
+* Script
+
+Il s'agit d'un langage de programmation interprété (c'est à dire un langage exécuté via un outil ayant pour tâche d'analyser, traduire et exécuter les programmes écrits en langage informatique) servant à automatiser des tâches.
+
+* .NET
 
 ------------------------------------------------------------------------------
 
