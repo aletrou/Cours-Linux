@@ -1,18 +1,21 @@
-Quelques [cmdlet](https://github.com/aletrou/Cours-Linux/blob/main/d%C3%A9finitions.md) de PowerShell :
+Les [cmdlet](https://github.com/aletrou/Cours-Linux/blob/main/d%C3%A9finitions.md) sont généralement composées ainsi :
+> Verbe-Nom
 
-- [Get]() = Permet d'avoir des informations
+Quelques verbes utilisés dans ces cmdlet :
 
-- [Set]() = Permet de définir des informations
+- [Get]()
 
-- [Clear]() = Permet de réinitialiser l'affiche de l'interface
+- [Set]()
 
-- [Remove]() = Permet de supprimer ce que l'on souhaite
+- [Clear]()
 
-- [New]() = Permet de créer un alias, objet, fichier ...
+- [Remove]()
 
-- [Read]() = Permet de lire un fichier
+- [New]()
 
-- [Write]() = Permet d'écrire un message, une erreur ...
+- [Read]()
+
+- [Write]()
 
 ---------------------------------------------------------------------------
 
