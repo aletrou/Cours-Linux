@@ -3,19 +3,19 @@ Les [cmdlet](https://github.com/aletrou/Cours-Linux/blob/main/d%C3%A9finitions.m
 
 Quelques verbes utilisés dans ces cmdlet :
 
-- [Get]()
+- [Get](https://github.com/aletrou/Cours-Linux/blob/main/cmdlet/get.md)
 
-- [Set]()
+- [Set](https://github.com/aletrou/Cours-Linux/blob/main/cmdlet/set.md)
 
-- [Clear]()
+- [Clear](https://github.com/aletrou/Cours-Linux/blob/main/cmdlet/clear.md)
 
-- [Remove]()
+- [Remove](https://github.com/aletrou/Cours-Linux/blob/main/cmdlet/remove.md)
 
-- [New]()
+- [New](https://github.com/aletrou/Cours-Linux/blob/main/cmdlet/new.md)
 
-- [Read]()
+- [Read](https://github.com/aletrou/Cours-Linux/blob/main/cmdlet/read.md)
 
-- [Write]()
+- [Write](https://github.com/aletrou/Cours-Linux/blob/main/cmdlet/write.md)
 
 ---------------------------------------------------------------------------
 
