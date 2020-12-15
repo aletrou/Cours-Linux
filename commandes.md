@@ -14,12 +14,6 @@ Quelques verbes utilisés dans ces cmdlet :
 
 - [Remove](https://github.com/aletrou/Cours-Linux/blob/main/cmdlet/remove.md)
 
-- [New](https://github.com/aletrou/Cours-Linux/blob/main/cmdlet/new.md)
-
-- [Read](https://github.com/aletrou/Cours-Linux/blob/main/cmdlet/read.md)
-
-- [Write](https://github.com/aletrou/Cours-Linux/blob/main/cmdlet/write.md)
-
 ---------------------------------------------------------------------------
 
 ## Sommaire
