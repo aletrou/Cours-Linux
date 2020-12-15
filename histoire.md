@@ -8,7 +8,3 @@ Ci-dessous, l'historique des versions de son lancement à la version actuelle (7
 
 ![chronologie](https://user-images.githubusercontent.com/73824294/102168741-147f5000-3e91-11eb-8dd8-5117919f9e43.PNG)
 [source](https://docs.microsoft.com/en-us/powershell/scripting/powershell-support-lifecycle?view=powershell-7.1)
-
-command.com (MS-DOS) de Windows Me, Windows 98
-cmd.exe de Windows NT
-Microsoft Command Shell (MSH) -Monad
