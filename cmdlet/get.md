@@ -1,6 +1,10 @@
 Quelques exemples de commandes avec le verbe get :
 
-* `get-help "nom de la commande"` permet d'obtenir des informations sur une commande en particulier. Cette commande affiche trois choses : la syntaxe, les alias (raccourcis), et des remarques sur la commande.
+* `get-help "nom de la commande"` permet d'obtenir des informations sur une commande en particulier. Cette commande affiche trois choses : 
+
+  * la syntaxe
+  * les alias (raccourcis
+  * les remarques sur la commande.
 
 Exemple :
 
