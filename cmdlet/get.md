@@ -1,6 +1,6 @@
 Quelques exemples de commandes avec le verbe get :
 
-* `get-help "nom de la commande"` permet d'obtenir des informations sur une commande en particulier. Cette commande affiche trois choses : 
+* `get-help "nom de commande"` permet d'obtenir des informations sur une commande en particulier. Cette commande affiche trois choses : 
 
   * la syntaxe
   * les alias (raccourcis
@@ -16,7 +16,7 @@ Exemple :
 
 ![get-random](https://user-images.githubusercontent.com/73824294/102175497-f836df80-3e9f-11eb-9d71-36640d05e9fb.PNG)
 
-* `get-alias "alias"` permet de savoir à quelle cmdlet correspond l'alias renseigné.
+* `get-alias "alias recherché"` permet de savoir à quelle cmdlet correspond l'alias renseigné.
 
 Exemple :
 
