@@ -8,6 +8,6 @@ Le PowerShell est une infrastructure multiplateforme servant à la configuration
 
 ## Sommaire
 
-1- [Quelques définitions]()
+1- [Quelques définitions](https://github.com/aletrou/Cours-Linux/blob/main/d%C3%A9finitions.md)
 
 2- [Histoire du PowerShell](https://github.com/aletrou/Cours-Linux/blob/main/histoire.md)
