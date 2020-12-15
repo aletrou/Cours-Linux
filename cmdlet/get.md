@@ -30,4 +30,4 @@ Exemple :
 
 --------------------------------------------------------
 
-Retour à [Commandes](https://github.com/aletrou/Cours-Linux/blob/main/commandes.md)
+Retour à la section [Commandes](https://github.com/aletrou/Cours-Linux/blob/main/commandes.md)
