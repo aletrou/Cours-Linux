@@ -1,6 +1,6 @@
 # Les Commandes sous PowerShell
 
-Les commandes sont généralement composées ainsi : `verbe-nom`. On peut également y ajouter une pipeline `|`, servant à connecter deux commandes ensemble.
+Les commandes sont généralement composées ainsi : `verbe-nom`. On peut également y ajouter une pipeline `|`, servant à connecter deux commandes ensemble. PowerShell a également des commandes de base de Shell, telles que cd, ls, ... que nous avons vues [en cours](https://github.com/kevinniel/resources/blob/master/Cours/linux/commandes_generiques.md).
 
 Pour lister toutes les commandes de PowerShell, il est possible d'utiliser `get-command` dans l'invite. Elles sont plus facilement trouvables [ici](https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.utility/?view=powershell-7.1) avec la barre de recherche.
 
