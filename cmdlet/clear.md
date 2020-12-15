@@ -11,3 +11,7 @@ Quelques exemples de commandes avec le verbe Clear :
 Exemple :
 
 ![clear-item](https://user-images.githubusercontent.com/73824294/102186500-ff1b1d80-3eb2-11eb-906a-b2aeea8c5204.PNG)
+
+--------------------------------------------------------
+
+Retour à la section [Commandes](https://github.com/aletrou/Cours-Linux/blob/main/commandes.md)
