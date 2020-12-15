@@ -1,6 +1,6 @@
 Quelques exemples de commandes avec le verbe set :
 
-* `set-variable` permet de définir la valeur d'une [variable](https://github.com/aletrou/Cours-Linux/blob/main/d%C3%A9finitions.md), ou, si une variable avec ce nom n'existe pas encore, créer la variable et lui assigner cette valeur. La commande `get-variable -Name "nom de la variable"` permet ensuite d'afficher cette variable et sa valeur.
+* `set-variable -name "nom de la variable" -value "valeur à assigner"` permet de définir la valeur d'une [variable](https://github.com/aletrou/Cours-Linux/blob/main/d%C3%A9finitions.md), ou, si une variable avec ce nom n'existe pas encore, créer la variable et lui assigner cette valeur. La commande `get-variable -Name "nom de la variable"` permet ensuite d'afficher cette variable et sa valeur.
 
 Exemple :
 
