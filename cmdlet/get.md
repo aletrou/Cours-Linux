@@ -24,4 +24,6 @@ Exemple :
 
 ![get-history](https://user-images.githubusercontent.com/73824294/102176737-5b297600-3ea2-11eb-8af7-7a7193f9e74f.PNG)
 
+--------------------------------------------------------
+
 Retour à [Commandes](https://github.com/aletrou/Cours-Linux/blob/main/commandes.md)
