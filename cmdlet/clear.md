@@ -4,6 +4,8 @@ Quelques exemples de commandes avec le verbe Clear :
 
 * `clear-history` permet de supprimer l'historique de commandes de la session en cours.
 
+Exemple :
+
 ![clear-history](https://user-images.githubusercontent.com/73824294/102186607-3093e900-3eb3-11eb-8627-d206251da9ae.PNG)
 
 * `clear-item` nettoie la valeur d'un objet.
