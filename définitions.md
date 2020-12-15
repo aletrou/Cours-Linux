@@ -12,7 +12,7 @@ Un script est un programme ou morceau de programme exécutant une action prédé
 
 * cmdlet
 
-Le terme cmdlet (prononcé command-let), aussi appelé applet de commande en français, désigne les commandes utilisés dans PowerShell. Il est défini ainsi sur la [documentation PowerShell disponible sur le site Microsoft](https://docs.microsoft.com/fr-fr/powershell/scripting/developer/cmdlet/cmdlet-overview?view=powershell-7.1) :
+Le terme cmdlet (prononcé command-let), aussi appelé applet de commande en français, désigne certaines commandes utilisées dans PowerShell. Il est défini ainsi sur la [documentation PowerShell disponible sur le site Microsoft](https://docs.microsoft.com/fr-fr/powershell/scripting/developer/cmdlet/cmdlet-overview?view=powershell-7.1) :
 
 > Une applet de commande est une commande légère qui est utilisée dans l’environnement PowerShell. Le runtime PowerShell appelle ces applets de commande dans le contexte des scripts d’automatisation fournis sur la ligne de commande. Le runtime PowerShell les appelle également par programme par le biais des API PowerShell.
 
