@@ -19,3 +19,5 @@ Ci-dessous une vidéo présentant .NET (en anglais) :
 2. [Histoire du PowerShell](https://github.com/aletrou/Cours-Linux/blob/main/histoire.md)
 
 3. [Commandes](https://github.com/aletrou/Cours-Linux/blob/main/commandes.md)
+
+4. [Script](https://github.com/aletrou/Cours-Linux/blob/main/script.md)
