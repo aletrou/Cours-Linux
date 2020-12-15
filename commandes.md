@@ -1,6 +1,8 @@
 Les [cmdlet](https://github.com/aletrou/Cours-Linux/blob/main/d%C3%A9finitions.md) sont généralement composées ainsi :
 > Verbe-Nom
 
+On peut également y ajouter une pipeline `|`, servant à connecter deux commandes ensemble.
+
 Quelques verbes utilisés dans ces cmdlet :
 
 - [Get](https://github.com/aletrou/Cours-Linux/blob/main/cmdlet/get.md)
