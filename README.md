@@ -4,6 +4,12 @@ Le PowerShell est une infrastructure multiplateforme servant à la configuration
 
 ![Un Screen de PowerShell](https://user-images.githubusercontent.com/73824294/102160741-4c34ca80-3e86-11eb-980b-49e765ca922d.png)
 
+.NET est une plateforme de développement en Open Source. Elle permet d'utiliser divers langages (#C, #F, Visual Basic) afin de créer des applications sur diverses plateformes : applications mobiles, web, IoT, jeux vidéos, applications bureau, etc. ([source](https://docs.microsoft.com/en-us/dotnet/core/introduction))
+
+Ci-dessous une vidéo présentant .NET (en anglais) :
+
+[![vidéo](https://user-images.githubusercontent.com/73824294/102161730-21e40c80-3e88-11eb-9217-f35eece9b3ef.PNG)](https://youtu.be/eIHKZfgddLM?t=17)
+
 ---------------------------------------------------------------------------
 
 ## Sommaire
