@@ -23,3 +23,7 @@ Ci-dessous une vidéo présentant .NET (en anglais) :
   * [Remove](https://github.com/aletrou/Cours-Linux/blob/main/cmdlet/remove.md)
 * [Script](https://github.com/aletrou/Cours-Linux/blob/main/script.md)
   * [TP](https://github.com/aletrou/Cours-Linux/blob/main/TP/1)
+
+------------------------------
+
+*Les images pour ce travail sont dans les [issues](https://github.com/aletrou/Cours-Linux/issues).*
