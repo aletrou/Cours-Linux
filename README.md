@@ -19,9 +19,9 @@ Ci-dessous une vidéo présentant .NET (en anglais) :
 2. [Histoire du PowerShell](https://github.com/aletrou/Cours-Linux/blob/main/histoire.md)
 
 3. [Commandes](https://github.com/aletrou/Cours-Linux/blob/main/commandes.md) avec quelques exemples :
-  * [Get](https://github.com/aletrou/Cours-Linux/blob/main/cmdlet/get.md)
-  * [Set](https://github.com/aletrou/Cours-Linux/blob/main/cmdlet/set.md)
-  * [Clear](https://github.com/aletrou/Cours-Linux/blob/main/cmdlet/clear.md)
-  * [Remove](https://github.com/aletrou/Cours-Linux/blob/main/cmdlet/remove.md)
+  ** [Get](https://github.com/aletrou/Cours-Linux/blob/main/cmdlet/get.md)
+  ** [Set](https://github.com/aletrou/Cours-Linux/blob/main/cmdlet/set.md)
+  ** [Clear](https://github.com/aletrou/Cours-Linux/blob/main/cmdlet/clear.md)
+  ** [Remove](https://github.com/aletrou/Cours-Linux/blob/main/cmdlet/remove.md)
 
 4. [Script](https://github.com/aletrou/Cours-Linux/blob/main/script.md)
