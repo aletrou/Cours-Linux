@@ -11,9 +11,9 @@ Ci-dessous une vidéo présentant .NET (en anglais) :
 [![vidéo](https://user-images.githubusercontent.com/73824294/102161730-21e40c80-3e88-11eb-9217-f35eece9b3ef.PNG)](https://youtu.be/eIHKZfgddLM?t=17)
 
 ---------------------------------------------------------------------------
-
 ## Sommaire
 
+* [Page d'accueil](https://github.com/aletrou/Cours-Linux/blob/main/README.md)
 * [Quelques définitions](https://github.com/aletrou/Cours-Linux/blob/main/d%C3%A9finitions.md)
 * [Histoire du PowerShell](https://github.com/aletrou/Cours-Linux/blob/main/histoire.md)
 * [Commandes](https://github.com/aletrou/Cours-Linux/blob/main/commandes.md) avec quelques exemples :
@@ -23,7 +23,3 @@ Ci-dessous une vidéo présentant .NET (en anglais) :
   * [Remove](https://github.com/aletrou/Cours-Linux/blob/main/cmdlet/remove.md)
 * [Script](https://github.com/aletrou/Cours-Linux/blob/main/script.md)
   * [TP](https://github.com/aletrou/Cours-Linux/blob/main/TP/1)
-
-------------------------------
-
-*Les images pour ce travail sont dans les [issues](https://github.com/aletrou/Cours-Linux/issues).*
