@@ -19,9 +19,9 @@ Pour créer un script et pouvoir l'exécuter, il faut s'assurer que PowerShell n
 [TP](https://github.com/aletrou/Cours-Linux/blob/main/TP/1)
 
 ---------------------------------------------------------------------------
-
 ## Sommaire
 
+* [Page d'accueil](https://github.com/aletrou/Cours-Linux/blob/main/README.md)
 * [Quelques définitions](https://github.com/aletrou/Cours-Linux/blob/main/d%C3%A9finitions.md)
 * [Histoire du PowerShell](https://github.com/aletrou/Cours-Linux/blob/main/histoire.md)
 * [Commandes](https://github.com/aletrou/Cours-Linux/blob/main/commandes.md) avec quelques exemples :
