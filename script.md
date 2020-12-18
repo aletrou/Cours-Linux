@@ -16,9 +16,7 @@ Pour créer un script et pouvoir l'exécuter, il faut s'assurer que PowerShell n
 
 ---------------------------------------------------------------------------
 
-Les travaux pratiques ci-dessous permettent d'illustrer l'utilité des scripts :
-
-[TP1](https://github.com/aletrou/Cours-Linux/blob/main/TP/1)
+[TP](https://github.com/aletrou/Cours-Linux/blob/main/TP/1)
 
 ---------------------------------------------------------------------------
 
