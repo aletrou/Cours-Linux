@@ -36,4 +36,4 @@ Dans un language de programmation, une variable est un espace de stockage pour u
   * [Clear](https://github.com/aletrou/Cours-Linux/blob/main/cmdlet/clear.md)
   * [Remove](https://github.com/aletrou/Cours-Linux/blob/main/cmdlet/remove.md)
 * [Script](https://github.com/aletrou/Cours-Linux/blob/main/script.md)
-  * [TP](https://github.com/aletrou/Cours-Linux/blob/main/TP/1)
+  * [TP](https://github.com/aletrou/Cours-Linux/blob/main/TP/1.md)
