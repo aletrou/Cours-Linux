@@ -26,4 +26,4 @@ Ci-dessous une vidéo présentant .NET (en anglais) :
 
 --------------------------------------------------------------------------
 
-*Les images pour ce travail sont dans les [Issues](https://github.com/aletrou/Cours-Linux/issues)*
+*Les images pour ce travail sont dans les [Issues](https://github.com/aletrou/Cours-Linux/issues).*
