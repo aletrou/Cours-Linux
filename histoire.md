@@ -22,4 +22,5 @@ Ci-dessous, l'historique des versions de son lancement à la version actuelle (7
   * [Clear](https://github.com/aletrou/Cours-Linux/blob/main/cmdlet/clear.md)
   * [Remove](https://github.com/aletrou/Cours-Linux/blob/main/cmdlet/remove.md)
 * [Script](https://github.com/aletrou/Cours-Linux/blob/main/script.md)
-  * [TP](https://github.com/aletrou/Cours-Linux/blob/main/TP/1)
+  * [TP](https://github.com/aletrou/Cours-Linux/blob/main/TP/1.md)
+  
